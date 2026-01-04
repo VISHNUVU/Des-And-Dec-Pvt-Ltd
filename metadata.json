@@ -1,0 +1,7 @@
+{
+  "name": "Des and Dec - Luxury Interior Designers Thiruvananthapuram",
+  "description": "Premium interior design studio specializing in residential and commercial spaces in Kerala. 5-star rated expertise in modular kitchens, living spaces, and turnkey renovations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
